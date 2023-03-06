@@ -3,7 +3,13 @@
   <p>
     This repository explores how useEffect works in React.StrictMode
   </p>
+  
 </div>
+
+### Links
+
+- [Click here to open site](https://log-use-effect-behaviour.netlify.app/)
+- You will notice that in the link above the component mounts only when mount is clicked and once.
 
 ### Important points to consider
 
