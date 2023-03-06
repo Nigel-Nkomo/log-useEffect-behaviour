@@ -19,14 +19,22 @@
 
 <img src="./src/images/mount.png"/>
 
+<hr/>
+
 ### When mount is clicked, react mounts, unmounts and remounts
 
 <img src="./src/images/mounted.png"/>
+
+<hr/>
 
 ### When unmount is clicked, the cleanup function is run
 
 <img src="./src/images/unmount.png"/>
 
+<hr/>
+
 ### When the value of text changes, react runs the cleanup function to unmount the component with the old value of text and then it remounts the component with the new value of text
 
 <img src="./src/images/onChange.png"/>
+
+<hr/>
